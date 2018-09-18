@@ -1,6 +1,6 @@
 # JavaScript Blockchain
 
-Small visual structure of a Blockchain in Javascript. 
+Small visual structure of a Blockchain in JavaScript. 
 
 # To Run
 1. Download project directory
